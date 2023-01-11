@@ -1,5 +1,0 @@
-C:\Users\GSilva\Documents\Apache-Kafka\Kafka.Course\Kafka.Course.Producer\obj\Debug\netcoreapp6.0\Kafka.Course.Producer.csproj.AssemblyReference.cache
-C:\Users\GSilva\Documents\Apache-Kafka\Kafka.Course\Kafka.Course.Producer\obj\Debug\netcoreapp6.0\Kafka.Course.Producer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\GSilva\Documents\Apache-Kafka\Kafka.Course\Kafka.Course.Producer\obj\Debug\netcoreapp6.0\Kafka.Course.Producer.AssemblyInfoInputs.cache
-C:\Users\GSilva\Documents\Apache-Kafka\Kafka.Course\Kafka.Course.Producer\obj\Debug\netcoreapp6.0\Kafka.Course.Producer.AssemblyInfo.cs
-C:\Users\GSilva\Documents\Apache-Kafka\Kafka.Course\Kafka.Course.Producer\obj\Debug\netcoreapp6.0\Kafka.Course.Producer.csproj.CoreCompileInputs.cache
